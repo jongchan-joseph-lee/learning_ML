@@ -1,1 +1,1 @@
-# This document is for recording learning experience of ML.
+This document is for learning ML
