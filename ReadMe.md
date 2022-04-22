@@ -1,1 +1,1 @@
-This document is for learning ML
+learning ML
